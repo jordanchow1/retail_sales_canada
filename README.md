@@ -27,3 +27,5 @@ _Source: [Dataset source, if applicable]_
 - Price per gram distribution across products or categories  
 - Trend analysis over time
 - Outlier detection
+
+![graph](https://github.com/jordanchow1/retail_sales_canada/blob/main/retail_sales_chart.png)
