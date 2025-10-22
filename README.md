@@ -15,7 +15,7 @@ The dataset contains the following columns:
 - **Price per Gram** – Retail price normalized per gram.
 - **Date Recorded** 
 
-_Source: [Dataset source, if applicable]_
+_Source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501&pickMembers%5B0%5D=1.11&cubeTimeFrame.startMonth=01&cubeTimeFrame.startYear=2025&cubeTimeFrame.endMonth=12&cubeTimeFrame.endYear=2025&referencePeriods=20250101%2C20251201
 
 ## Tools
 - **Tableau** – For visualization and interactive dashboards.  
