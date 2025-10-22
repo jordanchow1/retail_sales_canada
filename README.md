@@ -30,7 +30,7 @@ Source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
 ![graph](https://github.com/jordanchow1/retail_sales_canada/blob/main/most_expensive_products.png)
 
 ## Insight & Strategic Implications
-Analysis of retail price data from May 2025 published by Statistics Canada indicates that beef rib cuts consistently exhibit the highest per-unit price across the category, highlighting both sustained consumer willingness to pay and potential limited supply. From a marketer's perpective, this insight suggests opportunities to optimize margin contribution through strategic inventory allocation, dynamic pricing, and targeted promotions.
+This analysis of retail price data from May 2025 published by Statistics Canada indicates that **beef rib cuts consistently exhibit the highest per-gram price**, highlighting both sustained consumer willingness to pay and potential limited supply. From a marketer's perpective, this insight suggests opportunities to optimize margin contribution through strategic inventory allocation, dynamic pricing, and targeted promotions.
 
 For demand forecasting, beef rib cuts should be modeled as a high-elasticity conusmer product, with careful monitoring of volume-price sensitivity to anticipate substitution effects toward lower-priced cuts. The Price Elasticity of Demand can be easily calcaulted with past historical retail data, given that access to the proprietary data itself is not a barrier.
 
