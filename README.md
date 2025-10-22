@@ -27,7 +27,7 @@ Source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
 - Trend analysis over time
 - Outlier detection
 
-![graph](https://github.com/jordanchow1/retail_sales_canada/blob/main/retail_sales_chart.png)
+![graph](https://github.com/jordanchow1/retail_sales_canada/blob/main/most_expensive_products.png)
 
 ## Insight & Strategic Implications
 Analysis of retail price data from May 2025 published by Statistics Canada indicates that beef rib cuts consistently exhibit the highest per-unit price across the category, highlighting both sustained consumer willingness to pay and potential limited supply. From a marketer's perpective, this insight suggests opportunities to optimize margin contribution through strategic inventory allocation, dynamic pricing, and targeted promotions.
