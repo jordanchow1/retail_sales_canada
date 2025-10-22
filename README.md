@@ -11,8 +11,7 @@ This project visualizes and analyzes retail prices per gram for [product categor
 
 ## Dataset
 The dataset contains the following columns:  
-- **Product Name / SKU** – Identifier for each product.  
-- **Category / Type** – Product category or type.  
+- **Product Name** – Identifier for each product.  
 - **Price per Gram** – Retail price normalized per gram.
 - **Date Recorded** 
 
