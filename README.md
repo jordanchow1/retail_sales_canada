@@ -14,8 +14,6 @@ This project visualizes and analyzes retail prices per gram for [product categor
 - **Coverage:** Monthly retail sales across Canada for 2025, including categories like grocery, apparel, electronics, and more.
 - **Format:** CSV
 
-Source: https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501
-
 ## Tools
 - **Tableau** – For visualization and interactive dashboards.  
 - **Excel / CSV** – For data cleaning and preprocessing.  
