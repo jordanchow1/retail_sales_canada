@@ -29,3 +29,6 @@ _Source: [Dataset source, if applicable]_
 - Outlier detection
 
 ![graph](https://github.com/jordanchow1/retail_sales_canada/blob/main/retail_sales_chart.png)
+
+## Insight & Strategic Implications
+Beef rib cuts remained the most expensive retail product over the three-month period from May 2025. This sustained premium pricing suggests strong demand and potential for high-margin sales. Retailers can leverage this insight by maintaining a premium positioning, ensuring sufficient inventory, and targeting marketing efforts toward high-spend or less price-sensitive customers. Additionally, opportunities reside in cross-selling products, negotiating favourable supplier terms, and monitoring consumer response to pricing trends to optimize both revenue and assortment strategies.
