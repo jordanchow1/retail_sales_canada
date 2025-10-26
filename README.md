@@ -1,7 +1,7 @@
 # Retail Sales in Canada 2025
 
 ## Project Overview
-This project visualizes and analyzes retail prices per gram for [product category, e.g., cannabis products, coffee, or other retail goods]. The goal is to identify pricing patterns, detect outliers, and generate actionable insights that can inform pricing strategies, marketing, and inventory decisions.
+This project visualizes and analyzes retail prices per gram for different product categories, such as cannabis products, coffee, or other retail goods. The goal is to identify pricing patterns, detect outliers, and generate actionable insights that can inform pricing strategies, marketing, and inventory decisions.
 
 ## Objectives
 - Explore pricing trends across different product types, brands, or regions.  
