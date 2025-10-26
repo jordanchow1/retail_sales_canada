@@ -10,7 +10,7 @@ This project visualizes and analyzes retail prices per gram for [product categor
 - Provide insights for potential price optimization and strategic decision-making.  
 
 ## Dataset
-- **Source:** [Statistics Canada Retail Trade Data](https://www150.statcan.gc.ca/n1/en/type/data)  
+- **Source:** [Statistics Canada Retail Trade Data](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010006701)  
 - **Coverage:** Monthly retail sales across Canada for 2025, including categories like grocery, apparel, electronics, and more.
 - **Format:** CSV
 
